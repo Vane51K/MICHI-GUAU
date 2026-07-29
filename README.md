@@ -72,12 +72,6 @@ Este proyecto fue realizado con fines educativos para practicar:
 
 ---
 
-## 📷 Vista previa
-
-> Agrega aquí una captura de pantalla del sitio cuando esté terminado.
-
----
-
 ## 👨‍💻 Autor
 
 **Vane**
